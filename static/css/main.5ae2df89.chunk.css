@@ -1,0 +1,2 @@
+.App{text-align:center}.todo{display:grid;grid-template-columns:repeat(5,1fr);grid-gap:10px}.card{padding:20px;border:1px solid #000;border-radius:20px;background-color:#bdbdbd}.user__title{height:50px}.user__complated{padding:10px;border:1px solid #000;border-radius:20px}.user__complated--on{background-color:green}.user__complated--off{background-color:#bd1725}
+/*# sourceMappingURL=main.5ae2df89.chunk.css.map */
